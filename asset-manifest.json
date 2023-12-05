@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ibrahimawoleiro/my-app-WebPro.git/static/css/main.d3c50d6c.css",
+    "main.js": "/Ibrahimawoleiro/my-app-WebPro.git/static/js/main.d294f53e.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Ibrahimawoleiro/my-app-WebPro.git/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Ibrahimawoleiro/my-app-WebPro.git/index.html",
+    "main.d3c50d6c.css.map": "/Ibrahimawoleiro/my-app-WebPro.git/static/css/main.d3c50d6c.css.map",
+    "main.d294f53e.js.map": "/Ibrahimawoleiro/my-app-WebPro.git/static/js/main.d294f53e.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Ibrahimawoleiro/my-app-WebPro.git/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c50d6c.css",
+    "static/js/main.d294f53e.js"
+  ]
+}
